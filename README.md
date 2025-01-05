@@ -1,7 +1,3 @@
-Dưới đây là phiên bản được thiết kế lại của file **README** với bố cục rõ ràng và chuyên nghiệp hơn:  
-
----
-
 # **MEDICINE PILL IMAGE RECOGNITION**  
 
 ### **1. Giới thiệu**  
