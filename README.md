@@ -22,7 +22,7 @@
 Sao chép hoặc tải mã nguồn từ kho lưu trữ.  
 
 ```bash
-git clone <repository_link>
+git clone https://github.com/Kussssssss/Medicine-Pill-Image-Recognition.git
 cd path/to/source
 ```
 
